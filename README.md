@@ -1,2 +1,2 @@
-# Leetcode-Solutions
-My Leetcodes solutions
+# Leetcode Solutions
+Access Leetcode [here](https://leetcode.com/problemset/all/)
